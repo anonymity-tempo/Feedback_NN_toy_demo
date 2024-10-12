@@ -18,7 +18,7 @@ The toy example is placed in the **toy_example** repository.
 #### 1. Neural ODE with a linear feedback
 
 Consider a spiral curve:
-$$
+\[
 \left[ {\begin{array}{*{20}{c}}
 {\dot {x}}\\
 {\dot {y}}
@@ -29,7 +29,7 @@ $$
 {x}\\
 {y}
 \end{array}} \right]
-$$
+\]
 Neural ODE [2] can learn its latent dynamics accurately with collected dataset $\{x_i,y_i\}$:
 
 <img src="png_readme\Neural_ODE_in_training.png" alt="Neural_ODE_in_training" style="zoom:25%;" />
