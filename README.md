@@ -32,7 +32,7 @@ $$
 $$
 Neural ODE [2] can learn its latent dynamics accurately with collected dataset $\{x_i,y_i\}$:
 
-<img src="png_readme\Neural_ODE_in_training.png" alt="Neural_ODE_in_training" style="zoom:5%;" />
+<img src="png_readme\Neural_ODE_in_training.png" alt="Neural_ODE_in_training" style="zoom:25%;" />
 
 However,  as the learned ODE model is employed in a new case:
 $$
